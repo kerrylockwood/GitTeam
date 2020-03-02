@@ -1,0 +1,8 @@
+#picture{
+    height: 200px;
+    width: 125px;
+}
+
+section > div{
+    text-align: center;
+}
