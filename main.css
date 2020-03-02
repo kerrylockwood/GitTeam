@@ -1,0 +1,15 @@
+section {
+    text-align: center;
+}
+
+section > img{
+    height: 200px;
+    width: 125px;
+}
+
+body{
+    background-color: springgreen;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
